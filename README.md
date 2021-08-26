@@ -3,4 +3,4 @@
 
 Технологический стек: HTML, CSS, JS.
 
-Результат:
+Результат: https://astef-fe.github.io/MNTN/
